@@ -7,90 +7,174 @@ Total - 722982
 ### Count by days:
 Month: 1 day: 1 - 251
 
-Month: 1 day: 2 - 489 \n
+Month: 1 day: 2 - 489 
+
 Month: 1 day: 3 - 1014
+
 Month: 1 day: 4 - 863
+
 Month: 1 day: 5 - 1101
+
 Month: 1 day: 6 - 584
+
 Month: 1 day: 7 - 340
+
 Month: 1 day: 8 - 447
+
 Month: 1 day: 9 - 1339
+
 Month: 1 day: 10 - 1664
+
 Month: 1 day: 11 - 1343
+
 Month: 1 day: 12 - 1830
+
 Month: 1 day: 13 - 1680
+
 Month: 1 day: 14 - 480
+
 Month: 1 day: 15 - 758
+
 Month: 1 day: 16 - 1955
+
 Month: 1 day: 17 - 1487
+
 Month: 1 day: 18 - 1670
+
 Month: 1 day: 19 - 2305
+
 Month: 1 day: 20 - 1958
+
 Month: 1 day: 21 - 624
+
 Month: 1 day: 22 - 785
+
 Month: 1 day: 23 - 1565
+
 Month: 1 day: 24 - 2231
+
 Month: 1 day: 25 - 1922
+
 Month: 1 day: 26 - 2229
+
 Month: 1 day: 27 - 2004
+
 Month: 1 day: 28 - 1338
+
 Month: 1 day: 29 - 1264
+
 Month: 1 day: 30 - 2823
+
 Month: 1 day: 31 - 3234
+
 Month: 2 day: 1 - 2710
+
 Month: 2 day: 2 - 2845
+
 Month: 2 day: 3 - 2526
+
 Month: 2 day: 4 - 2706
+
 Month: 2 day: 5 - 1929
+
 Month: 2 day: 6 - 3582
+
 Month: 2 day: 7 - 5189
+
 Month: 2 day: 8 - 4405
+
 Month: 2 day: 9 - 5020
+
 Month: 2 day: 10 - 2964
+
 Month: 2 day: 11 - 1002
+
 Month: 2 day: 12 - 1938
+
 Month: 2 day: 13 - 3203
+
 Month: 2 day: 14 - 3388
+
 Month: 2 day: 15 - 3520
+
 Month: 2 day: 16 - 2596
+
 Month: 2 day: 17 - 2132
+
 Month: 2 day: 18 - 1669
+
 Month: 2 day: 19 - 1158
+
 Month: 2 day: 20 - 1554
+
 Month: 2 day: 21 - 1869
+
 Month: 2 day: 22 - 2786
+
 Month: 2 day: 23 - 2421
+
 Month: 2 day: 24 - 1823
+
 Month: 2 day: 25 - 1524
+
 Month: 2 day: 26 - 1267
+
 Month: 2 day: 27 - 2055
+
 Month: 2 day: 28 - 2152
+
 Month: 3 day: 1 - 2153
+
 Month: 3 day: 2 - 2094
+
 Month: 3 day: 3 - 1643
+
 Month: 3 day: 4 - 1395
+
 Month: 3 day: 5 - 1620
+
 Month: 3 day: 6 - 2886
+
 Month: 3 day: 7 - 3134
+
 Month: 3 day: 8 - 2655
+
 Month: 3 day: 9 - 2915
+
 Month: 3 day: 10 - 3370
+
 Month: 3 day: 11 - 1505
+
 Month: 3 day: 12 - 1612
+
 Month: 3 day: 13 - 3962
+
 Month: 3 day: 14 - 4451
+
 Month: 3 day: 15 - 4293
+
 Month: 3 day: 16 - 3686
+
 Month: 3 day: 17 - 1967
+
 Month: 3 day: 18 - 1485
+
 Month: 3 day: 19 - 1345
+
 Month: 3 day: 20 - 4784
+
 Month: 3 day: 21 - 6565
+
 Month: 3 day: 22 - 4168
+
 Month: 3 day: 23 - 4875
+
 Month: 3 day: 24 - 2035
+
 Month: 3 day: 25 - 2429
+
 Month: 3 day: 26 - 2151
+
 Month: 3 day: 27 - 4513
 Month: 3 day: 28 - 5362
 Month: 3 day: 29 - 6352
