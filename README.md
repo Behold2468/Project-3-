@@ -7,7 +7,7 @@ Total - 722982
 ### Count by days:
 Month: 1 day: 1 - 251
 
-Month: 1 day: 2 - 489
+Month: 1 day: 2 - 489 \n
 Month: 1 day: 3 - 1014
 Month: 1 day: 4 - 863
 Month: 1 day: 5 - 1101
