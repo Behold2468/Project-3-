@@ -1,5 +1,8 @@
 # Project-3-
 
+Down below is the output once the code has ran. To excute, just run the task.py. I've used IDLE (Python 3.6 32-bit) to run the script along with Notepad ++ to make changes. 
+When running using IDLE, it says restart along with a path. It takes about 45 sec to 1 min for it to result the output data.
+
 
 ## Total:
 Total - 722982
