@@ -7,15 +7,15 @@ response = urlopen(url)
 log_file = response.read().decode('utf-8').split('\n')
 
 
-# data_dict - dictionary that will be contain count by day for week and month
+# data_dict - dictionary that will contain count by day for week and month
 data_dict = {}
 # counter for 4xx status code
 status_4xx = 0
 # counter for 3xx status code
 status_3xx = 0
-# request_file - dictionary that will be contain count for unique request file
+# request_file - dictionary that will contain count for unique request file
 request_file = {}
-# last_month - variable that save last actual month
+# last_month - variable that saves last actual month
 last_month = 0
 # current_file - file variable (for open and write data to file) that allow write data by month
 current_file = None
@@ -34,7 +34,7 @@ for log in log_file:
         week = int(time.strftime("%U", date))
         
         # start writing log in file by month
-        # if current month is equel last
+        # if current month is equal last
         if date.tm_mon == last_month:
             # write log in current (open) file
             current_file.write(' '.join(log) + '\n')
@@ -56,13 +56,13 @@ for log in log_file:
             if data_dict[date.tm_mon].get(week):
                 # if yes, check day
                 if data_dict[date.tm_mon][week].get(date.tm_mday):
-                    # if yes, increase currenr day
+                    # if yes, increase current day
                     data_dict[date.tm_mon][week][date.tm_mday] += 1
-                # if week not contain current month
+                # if week dosen't contain current month
                 else:
                     # create this day
                     data_dict[date.tm_mon][week][date.tm_mday] = 1
-            # if month not contain current week
+            # if month dosen't contain current week
             else:
                 # create week with dictionary: current day (with counter 1)
                 data_dict[date.tm_mon][week] = {date.tm_mday: 1}
